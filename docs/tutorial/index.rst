@@ -4,11 +4,8 @@
   Python指南
 ######################
 
-Python is an easy to learn, powerful programming language. It has efficient
-high-level data structures and a simple but effective approach to
-object-oriented programming. Python's elegant syntax and dynamic typing,
-together with its interpreted nature, make it an ideal language for scripting
-and rapid application development in many areas on most platforms.
+Python是一种简单易学，功能强大的编程语言。它包括了高效的高级数据结构，简单而有效的方法，面向对象编程。 
+Python的优雅的语法，动态类型，以及它天然的解释能力，使其成为理想的语言，脚本和应用程序快速开发在大多数平台上的许多领域。
 
 The Python interpreter and the extensive standard library are freely available
 in source or binary form for all major platforms from the Python Web site,
